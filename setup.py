@@ -7,7 +7,7 @@ with open("README.md","r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME ="cnnClassifire"
+REPO_NAME ="Chicken-diesease-classification"
 AUTHOR_USER_NAME ="Nilanj Patel"
 SRC_REPO="cnnClassifire"
 AUTHOR_EMAIL="nilanjpatel@yahoo.in"
