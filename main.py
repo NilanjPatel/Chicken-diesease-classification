@@ -3,7 +3,6 @@ from cnnClassifire.pipline.stage_01_data_ingestion import DataIngestionTrainingP
 
 STAGE_NAME = "Data Ingestion stage"
 
-
 try:
     logger.info(f">>>>> stage {STAGE_NAME} started <<<<")
     stage_1_obj = DataIngestionTrainingPipeling()
