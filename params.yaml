@@ -1,1 +1,8 @@
-key: dummy
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224, 3] # as the VGG 16 model
+BATCH_SIZE: 16 # locaal machine
+INCLUDE_TOP: False
+EPOCHS: 1 # if want to train actual model increase
+CLASSES: 2 # have only two classes , healthy image and dieses image
+WEIGHTS: imagenet
+LEARNING_RATE: 0.01
