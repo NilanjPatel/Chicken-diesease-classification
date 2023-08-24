@@ -14,8 +14,6 @@ except Exception as e:
     raise e
 
 
-
-
 STAGE_NAME = "Prepare base model stage"
 
 try:
